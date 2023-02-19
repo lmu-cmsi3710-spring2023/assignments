@@ -107,7 +107,7 @@ Commit the following to your repository:
 * _credits.md_, listing the articulated composite characters/objects that are [individually led](#be-individually-responsible-for-a-group-composite-character)
 * If needed, instructions for how to run your scene (if it is no longer a React app)
 * _commentary.md_, containing [thoughts on your library’s design](#assess-your-design)
-* Visits to Brightspace to log viewings of the [two asynchronous videos](#extra-learnings) (when available)
+* Attendance of class sessions on [clipping & hidden surface removal](#extra-learnings)
 * [_group-retrospective.md_](#statement-of-work-retrospective), describing the roles and contributions of each group member through all of the “our own library” assignments
 * [Individual email](#statement-of-work-retrospective) with the requested title and comment (even if there is nothing to add to _group-retrospective.md_)
 
@@ -154,7 +154,7 @@ This assignment is scored according to outcomes _1b_, _1c_, _2a_–_2d_, _3a_, _
 | _credits.md_ lists all group members and what they individually took point on | 10 points | _3a_, _4b_, _4c_ |
 | (if different from starter code) Instructions for running the app are provided | deduction only | |
 | _commentary.md_ sufficiently reflects on design choices | 10 points | _3a_, _4b_, _4c_ |
-| **Individual:** Asynchronous videos viewed on Brightspace | 20 points total | _2d_ |
+| **Individual:** Class session attendance | 20 points total | _2d_ |
 | • Clipping | 10 points | |
 | • Hidden surface removal | 10 points | |
 | Group retrospective is submitted with requested information | 10 points total | |
